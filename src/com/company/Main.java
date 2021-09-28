@@ -1,6 +1,7 @@
 package com.company;
 import java.util.Random;
 import java.math.*;
+import java.lang.Math;
 
 public class Main {
 
