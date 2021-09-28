@@ -19,13 +19,18 @@ int terning2;
  int terning1= nextInt(int n);
  int terning2= nextInt(int n);
 
- // her plusses værdien af de to terninger og tillæges ens totale score
+ // her plusses værdien af de to terninger og oplyses til spilleren
+        System.out.println("Du slog ");
    getSum():int terning2 + terning1;
 
-   Total= total +
+   ///her tillæges værdien af de to terninger og totalscoren og oplyses til spilleren
+int Total = 0;
+   Total= Total + terning1 + terning2;
+        System.out.println("Din totale score er nu "+Total);
 
 
-
+// find ud af hvordan man får spillet til at stoppe, når ens score er 40 eller derover
+        System.out.println("Tillykke. Du har vundet spillet");
 
 
 
