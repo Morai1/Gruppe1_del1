@@ -30,6 +30,7 @@ int Total = 0;
 
 
 // find ud af hvordan man får spillet til at stoppe, når ens score er 40 eller derover
+        // loop evt. while - while total<40 do...
         System.out.println("Tillykke. Du har vundet spillet");
 
 
