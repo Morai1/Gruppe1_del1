@@ -12,6 +12,9 @@ public class Main {
 int terning1;
 int terning2;
 
+// de to spillere
+int spiller1;
+int spiller2;
 // Besked til spillerne ved spillets start.
         System.out.println("Hej og velkommen. Reglerne er simple. Den spiller der først opnår 40 point eller derover vinder");
 
