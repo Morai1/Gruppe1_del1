@@ -1,9 +1,7 @@
-package com.company;
+package Spil;
 
-import Spil.Die;
 
-public class Raflebæger
-{
+public class Raflebæger {
     private int terningValue;
     Die die1 = new Die();
     Die die2 = new Die();
