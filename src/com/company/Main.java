@@ -47,8 +47,6 @@ int Total = 0;
         System.out.println("Tillykke. Du har vundet spillet");
 
 
-
-
     }
 
      
